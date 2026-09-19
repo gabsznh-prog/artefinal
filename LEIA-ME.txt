@@ -1,0 +1,29 @@
+ARTE FINAL PISOS DE MADEIRA
+
+Para abrir:
+1. Abra esta pasta no VS Code.
+2. Abra index.html.
+3. Para visualizar com atualização automática, use a extensão Live Server.
+
+Estrutura:
+- index.html: conteúdo do site
+- style.css: identidade visual e responsividade
+- script.js: menu, WhatsApp, antes/depois e galeria
+- assets/logo: logo oficial
+- assets/imagens: fotos reais selecionadas do Google Drive
+
+As imagens foram convertidas para WebP para deixar o site mais leve.
+
+ATUALIZAÇÃO V2
+- Galeria ampliada para 14 projetos/fotos.
+- Nova seção "Amostras e opções".
+- Categorias: madeira, vinílico, laminado e rodapés.
+- As amostras são referências visuais em CSS e não representam estoque/marca específica.
+
+ATUALIZAÇÃO V3
+- Projetos separados por tipo de serviço.
+- Novas fotos reais de instalação e quadra.
+- Seção "Amostras" substituída por "Produtos e Serviços".
+- Distinção clara entre prestação de serviço e venda + instalação.
+- Inclusão de madeira maciça, engenheirada, estruturada, vinílico, laminado, forro, rodapé, deck e quadras.
+- Inclusão de restauração, verniz nacional/importado, demarcação/pintura e mão de obra especializada.
